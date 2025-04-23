@@ -1,0 +1,11 @@
+commands\HealCommand.class
+org\tempis\testCommands\listeners\ListenerChatGame.class
+commands\SpeeedCommand.class
+commands\ChatGameCommand.class
+org\tempis\testCommands\listeners\ListenerGodsCommand.class
+commands\GodsCommands.class
+commands\JumpCommand.class
+commands\EatCommand.class
+commands\RtpCommand.class
+commands\BombCommand.class
+org\tempis\testCommands\TestCommands.class

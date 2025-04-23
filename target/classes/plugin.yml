@@ -1,0 +1,43 @@
+name: TestCommands
+version: 1.0
+api-version: 1.13
+main: org.tempis.testCommands.TestCommands
+commands:
+  rtp:
+    description: "Команда для телепортации"
+    usage: /rtp
+
+  bomb:
+    description: "Команда для мусульман"
+    usage: /bomb
+
+  heal:
+    description: "Команда для лечения"
+    usage: /heal
+
+  eat:
+    description: "Команда для получения еды"
+    usage: /eat
+
+  jump:
+    description: "Команда для прыжка"
+    usage: /jump
+
+  speed:
+    description: "Команда для рывка"
+    usage: /speed
+
+  chatgame:
+    description: "Команды для игры"
+    usage: /chatgame <start | stop>
+
+  gods:
+    description: "Команды для сильных людей"
+    usage: /gods <type | setgamemode/none>
+
+
+
+
+
+
+
